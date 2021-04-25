@@ -9,7 +9,7 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - cv2
+    - opencv-python
     - tkinter
     - PIL
     - shutil
