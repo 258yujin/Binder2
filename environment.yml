@@ -10,10 +10,8 @@ dependencies:
     - pandas
     - thinc
     - opencv-python
-    - tkinter
-    - PIL
-    - shutil
-    - tkinter
-    - skimage
+    - pillow
+    - pytest-shutil
+    - scikit-image
     - tensorflow
     - keras
